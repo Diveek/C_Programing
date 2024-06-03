@@ -1,0 +1,9 @@
+https://www.javatpoint.com/how-to-run-a-c-program-in-visual-studio-code
+
+
+https://www.naukri.com/code360/library/how-to-setup-and-program-in-c-in-vs-code
+
+
+-for run a code
+
+https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/
