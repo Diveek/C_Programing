@@ -1,6 +1,6 @@
 /* The Binary Arithmetic operators are:( + , - , * , / )And Modulus operator %       */
 
-#include <stdio.h>          /* program to check leap year*/
+#include <stdio.h>      /* program to check leap year*/
 
 int main()
 {
